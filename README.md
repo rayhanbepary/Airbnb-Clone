@@ -24,3 +24,4 @@
 * react-bootstrap
 * react-icons
 * react-router-dom
+* react-datepicker
