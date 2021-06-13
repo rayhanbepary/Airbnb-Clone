@@ -1,6 +1,8 @@
 ![logo](https://www.linkpicture.com/q/logo_105.png)
 ##
 
+This website is the clone of Airbnb. Hosts can host their room/hotel /house at this site, those will appear on the search page based on the location where the guests are going. And guests can book their preferred room. It has built in react. The code is well commented and straightforward and it's easy to customize.
+
 
 [Live Website](https://airbnb-clone-rb.netlify.app/)
 
